@@ -7,7 +7,7 @@
 ![Screen Shot 2021-04-13 at 11 49 59 PM](https://user-images.githubusercontent.com/53010153/114656072-08769400-9cb3-11eb-83d0-fc066297feb1.png)
 
 ## Hi there! Krishna Here! 🤓 
-I'm a developer learning on progress and founder/engneer at Axcess Nutrition. I love solving problems with code and building applications in JavaScript. When I'm not coding or learning, you can find me on long run or on my bed taking naps. Thanks for visiting!   
+I'm a developer learning on progress and Founder/Software Engineer at Axcess Nutrition. I love solving problems with code and building applications in JavaScript. When I'm not coding or learning, you can find me on long run or on my bed taking naps. Thanks for visiting!   
 <h2 align="left">Connect with me: 🌱</h2>
 <p align="left">
 <a href="https://codepen.io/krishna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="esin87" height="30" width="40" /></a>
